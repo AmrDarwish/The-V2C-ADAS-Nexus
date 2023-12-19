@@ -1,6 +1,6 @@
 <h1 align="center" id="title">The-V2C-ADAS-Nexus</h1>
 
-<p align="center"><img src="https://drive.google.com/file/d/10xdTC1H9-1awyC1fYOa3e_046fhQKKI3/view?usp=drive_link" alt="project-image"></p>
+<p align="center"><img src="[https://drive.google.com/file/d/10xdTC1H9-1awyC1fYOa3e_046fhQKKI3/view?usp=drive_link" alt="project-image](https://github.com/AmrDarwish/The-V2C-ADAS-Nexus/blob/master/Docs/images/nexusjpeg)"></p>
 
 <p id="description">The V2C ADAS Nexus project aims to create a cutting-edge embedded system that seamlessly integrates safety and connectivity features for the automotive industry. By combining Advanced Driver Assistance Systems (ADAS) with Vehicle-to-Cloud (V2C) communication this project intends to enhance vehicle safety improve driver experience and redefine the standard for automotive technology.</p>
 
